@@ -1,0 +1,6 @@
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+app_chaton_mignon:
+    path: /Symfony/chaton
+    controller: App\Controller\ChatonController::mignon
