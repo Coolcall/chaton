@@ -17,9 +17,9 @@ class ChatonController extends AbstractController
     {
 
 
-        $mignon = "araigne.jpg";
+        
         return $this->render('chaton.html.twig', [
-            'animal' => $mignon,
+
         ]);
     }
 } ?>
